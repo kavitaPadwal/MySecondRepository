@@ -55,4 +55,9 @@ public class Tc2_selectfacility extends Base  {
 	    	  System.out.println("this is another smoke class");
 	      }
 	
+	 @Test
+	      public void pullreq() {
+	    	  System.out.println("this is pull req");
+	      }
+	
 }
