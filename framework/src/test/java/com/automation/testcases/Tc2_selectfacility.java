@@ -50,6 +50,9 @@ public class Tc2_selectfacility extends Base  {
 	    	  System.out.println("this is Third class");
 	      }
 	
-	
+	      @Test(groups = { "smoke" })
+	      public void fifthclass() {
+	    	  System.out.println("this is another smoke class");
+	      }
 	
 }
